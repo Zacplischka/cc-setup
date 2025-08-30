@@ -50,8 +50,8 @@ source ~/.zshrc
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Zacplischka/cc-setup.git
+cd cc-setup
 ```
 
 ### 2. Make Script Globally Accessible
